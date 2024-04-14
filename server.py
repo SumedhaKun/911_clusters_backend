@@ -1,13 +1,29 @@
-from fastapi import FastAPI, UploadFile
+from fastapi import FastAPI, UploadFile, File
 from pydantic import BaseModel
+from typing import List
 import uvicorn
-
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
+origins = [
+    "*"
+]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_methods=["*"],
+    allow_credentials=True,
+    allow_headers=['*'])
+ 
 
+class FormList(BaseModel):
+    data:List[UploadFile]
 @app.post("/post/")
-async def read_root(file:UploadFile):
-    return {"message": file.filename}
+async def read_root(files:List[UploadFile]):
+    res=[]
+    for file in files:
+        res.append(file.file)
+    return {'message': res}
 
 if __name__ == "__main__":
     import asyncio
