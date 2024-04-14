@@ -6,12 +6,29 @@ from sklearn.preprocessing import StandardScaler
 import dbconnection
 import matplotlib as plt
 import parseCrimeReportsData
+from sklearn.cluster import DBSCAN
 
 conn= dbconnection.open_connection_to_db("rds!cluster-37ab34ae-e03e-4681-ad30-a7dfb19f2520")
 cur=conn.cursor
 #run clustering algorithm and return cluster information
 
 
+def clustering_algorithm():
+    
+    vector_data = get_Vector()
+    
+    
+    
+    scaler = StandardScaler()
+    vector_data_scaled = scaler.fit_transform(vector_data)
+
+
+    dbscan = DBSCAN(eps=0.5, min_samples=3)
+    clusters = dbscan.fit_predict(vector_data_scaled)
+
+    data['cluster_label'] = clusters
+
+    data.to_csv("clustered_reports_dbscan.csv")
 
 
 #get analytics on a specific case in the DB when provided with the caseNumber
