@@ -64,4 +64,9 @@ document = re.sub(r'\W', ' ', str(X[sen]))
         
         documents.append(document)
 
+
+        from sklearn.feature_extraction.text import TfidfVectorizer
+        tfidfconverter1 = TfidfVectorizer(max_features=1500, min_df=5, max_df=0.7, stop_words=stopwords.words('english'))
+        X = tfidfconverter1.fit_transform(documents).toarray()
+
 '''
