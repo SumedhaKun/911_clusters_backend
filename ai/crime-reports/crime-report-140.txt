@@ -1,0 +1,25 @@
+Here is a detailed fictional police report based on the provided parameters:
+
+POLICE INCIDENT REPORT
+Case No. 2023-147852
+
+Nature of Incident: Identity Theft/Cyber Crime  
+
+Date/Time Reported: 05/12/2023 09:32 AM
+
+Location of Occurrence: Online/Remote Attack
+
+Brief Narrative:
+On the morning of May 12th, 2023, the cyber crimes division received a report from CitiBank regarding a suspected case of identity theft and fraudulent account activity. According to bank records, an unauthorized party gained access to the bank's customer database and extracted personal identifying information for over 500 account holders.
+
+Further investigation revealed that the perpetrator(s) deployed sophisticated malware to infiltrate CitiBank's network security systems. The malware allowed remote access and data exfiltration from the bank's servers. Customer names, dates of birth, social security numbers, account numbers, and other sensitive information were compromised.
+
+Using the stolen data, the suspect(s) then opened over 200 fraudulent credit accounts across multiple financial institutions. Tens of thousands of dollars in illegitimate charges racked up on the accounts before the activity was detected. 
+
+No threat, force or weapons were used during the cyber intrusion. However, the scale and financial impact of the identity theft scheme are substantial. An intensive forensic audit and digital investigation are underway. All affected customers have been notified to monitor accounts and credit reports.
+
+The cyber crimes unit is working closely with CitiBank's internal security team as well as federal agencies to identify the perpetrator(s). Surveillance footage, digital logs and other evidence have been collected. Suspects are still at large as of this report.
+
+Investigating Officers:
+Detective V. Stanziale, Badge #7518
+Detective J. Paulson, Badge #4629

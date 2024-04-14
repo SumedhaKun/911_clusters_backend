@@ -1,0 +1,28 @@
+Here is a detailed fake police report based on the provided parameters:
+
+POLICE INCIDENT REPORT
+Case #2023-04182
+
+Crime Type: Home Invasion and Aggravated Assault
+
+On April 17th, 2023 at approximately 2:15 AM, officers responded to a 911 call reporting a home invasion in progress at 347 Maple Drive. Upon arrival, officers encountered a chaotic and violent scene. 
+
+The victims, John and Jane Doe, stated that they were awoken by loud banging noises coming from the front door of their residence. Mr. Doe went to investigate and was immediately confronted by three masked intruders who had used a battering ram to forcibly gain entry.
+
+Modes of Accessing Victim:
+The suspects ambushed Mr. Doe, using physical force to subdue him. He was struck multiple times with a blunt object, resulting in a severe laceration to the head and multiple contusions. Mrs. Doe attempted to intervene but was violently shoved to the ground by one of the assailants.
+
+Common Tools Used:
+In addition to the battering ram used to breach the front door, the suspects were armed with crowbars which they used to pry open locked interior doors, closets, and a small safe located in the master bedroom. 
+
+Type of Force Used:
+<typeofforceused>Physical force</typeofforceused> was employed extensively by the intruders. Both victims showed signs of being beaten and manhandled during the home invasion.
+
+Weapons Used:
+No firearms were discharged during the incident. However, the intruders brandished knives and threatened to use them against the victims if they did not cooperate. One suspect held a knife to Mrs. Doe's throat while the other two ransacked the home.
+
+The suspects made off with jewelry, electronics, and an undisclosed amount of cash from the safe before fleeing the scene in a dark colored SUV. Both victims were treated at the scene by paramedics for their injuries.
+
+The investigation is ongoing and police are canvassing the neighborhood for any potential witnesses or surveillance footage that may aid in identifying the suspects. A police spokesperson stated that based on the level of violence and preparedness exhibited by the perpetrators, this appears to be the work of an experienced and organized criminal enterprise.
+
+Any person with information regarding this crime is urged to contact the police department immediately.

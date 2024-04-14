@@ -1,0 +1,23 @@
+Here is a detailed fictional police report based on the parameters provided:
+
+INCIDENT REPORT
+
+Case #: 2023-04785
+
+Date: April 15, 2023
+Time: Approximately 2:15 AM 
+Location: 825 Main Street, Oakwood City
+
+Crime Type: Burglary, Breaking and Entering
+
+On the morning of April 15th at approximately 2:15 AM, officers responded to a call reporting a break-in at the Main Street Jewelry Exchange in downtown Oakwood City. Upon arrival, officers found the front door of the establishment had been forcibly opened, with clear signs of forced entry.
+
+The store owner, Jane Smith, stated that she received an alert from her security company about a breach at the store in the early morning hours. Surveillance footage from the store shows two suspects, both wearing dark clothing and ski masks, approaching the front entrance around 2:00 AM.  
+
+One suspect is seen using a crowbar <toolsused>crowbar</toolsused> to pry open the front door, gaining access to the store. The suspects then spent approximately 15 minutes inside, smashing several glass display cases and emptying them of high-end jewelry and watches.
+
+<modes of accessing a victim>The store was unoccupied at the time, as it was after business hours.</modes of accessing a victim> However, the suspects seemed prepared for potential confrontation, as <type of force used>one was carrying a baseball bat</type of force used> and the other had <weapons used in the crime>what appeared to be a handgun tucked into his waistband</weapons used in the crime>.
+
+After clearing out numerous display cases, the suspects are seen on camera fleeing out the front entrance with several bags full of stolen merchandise, the total value of which is still being determined by the store owners.
+
+The Oakwood City Police Department is reviewing the surveillance footage and analyzing evidence from the scene in an effort to identify the suspects. Anyone with information about this incident is urged to contact the OCPD immediately.

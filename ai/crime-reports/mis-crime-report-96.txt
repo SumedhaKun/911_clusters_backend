@@ -1,0 +1,20 @@
+Here is a detailed fake police report based on the provided parameters of cyber attacks as the type of force used:
+
+POLICE REPORT
+Case #2023-04718
+
+On April 12th, 2023, the Cyber Crimes Division of the Metropolitan Police Department received a report of a major data breach and ransomware attack on SysCorp Industries, a leading manufacturing company. 
+
+According to the initial findings, the perpetrators gained unauthorized access to SysCorp's computer systems through a sophisticated cyber attack that exploited vulnerabilities in the company's network security. The <modes of accessing a victim> employed by the criminals involved phishing emails containing malicious links and attachments that installed malware on the systems when opened by unsuspecting employees.
+
+Once inside the network, the hackers deployed <common tools used to access secure locations> such as password cracking tools, vulnerability scanners, and remote access trojans to escalate their privileges and move laterally within SysCorp's infrastructure. They were able to bypass multiple security controls and firewalls, demonstrating an advanced understanding of cyber offensive techniques.
+
+The <typeofforceused>cyber attacks</typeofforceused> resulted in the encryption of critical data and manufacturing systems, effectively bringing SysCorp's operations to a halt. A ransom demand of 50 million dollars in cryptocurrency was issued to the company, threatening the permanent deletion of data if the amount was not paid within 72 hours.
+
+Forensic analysis revealed that the attackers used <weapons used in the crime> such as customized malware strains, exploits targeting zero-day vulnerabilities, and sophisticated obfuscation techniques to cover their tracks and evade detection.
+
+SysCorp has stated that they are working closely with law enforcement and cybersecurity experts to investigate the incident and attempt to recover their systems without paying the ransom demand. However, the company has already suffered significant financial losses and reputational damage due to the disruption caused by the attack.
+
+The Cyber Crimes Division is urging all businesses to prioritize cybersecurity measures, including regular software updates, employee training, and robust backup and disaster recovery plans. This case highlights the growing threat of cyber attacks and the potential for devastating consequences for victims.
+
+The investigation is ongoing, and authorities are working tirelessly to identify and apprehend the perpetrators responsible for this audacious cyber crime.

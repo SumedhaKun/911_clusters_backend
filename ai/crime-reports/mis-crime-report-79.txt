@@ -1,0 +1,19 @@
+Here is a detailed fictional police report based on the provided parameters:
+
+INCIDENT REPORT
+Case #: 2023-04281
+Incident Type: Burglary 
+
+On April 15th, 2023 at approximately 2:30 AM, officers responded to a call regarding a break-in at the Westfield Gallery on Main Street. Upon arrival, the officers found signs of forced entry through the rear door of the building. 
+
+The perpetrator(s) appeared to have used lock picking tools and a bump key (<toolsused>lock pick, bump key</toolsused>) to bypass the security locks on the rear entrance. Once inside, the burglar(s) smashed several display cases and made off with an estimated $75,000 worth of jewelry and gemstones from the gallery's collection.
+
+Based on evidence collected at the scene, the suspect(s) employed an array of <common tools used to access secure locations> including a pry bar, glass cutter, and portable drill to breach the interior display cases. Shattered glass and tool markings on the lock mechanisms corroborate this theory.
+
+While no employees or patrons were present during the break-in, the use of <type of force used> brute force was evident in the damage done to the property. Investigators believe at least one <weapons used in the crime> blunt object, possibly a small sledgehammer or large mallet, was likely utilized to smash the thick glass vitrines.
+
+Detectives are reviewing surveillance footage from nearby buildings and canvassing the area for any witnesses who may have seen suspicious activity in the early morning hours. Authorities are urging anyone with information about this brazen heist to contact the police department's tip line.
+
+The Westfield Gallery owner could not be reached for comment, but a spokesman expressed their devastation over the loss of their most prized collection pieces. An inventory audit is underway to determine the full extent of the missing artwork and valuables.
+
+This investigation remains active and ongoing. More details will be provided as they become available.

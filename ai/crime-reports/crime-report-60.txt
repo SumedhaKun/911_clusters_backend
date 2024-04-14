@@ -1,0 +1,24 @@
+Here is a detailed fictional police report based on the provided parameters:
+
+POLICE INCIDENT REPORT
+
+Case Number: 2023-04617
+Incident Type: Embezzlement 
+Date/Time Reported: April 17, 2023 / 10:32 AM
+
+Summary of Incident:
+On the morning of April 17th, officers responded to reports of financial irregularities at the offices of TrueLogic Software Inc., a local tech company. The company's Chief Financial Officer, Amanda Weller (35), had uncovered suspicious transactions over the previous six months totaling over $3.2 million in unauthorized transfers from the corporate accounts.
+
+Investigation revealed that Senior Accountant Derek Mahoney (42) had been systematically embezzling funds by abusing his access privileges to the company's financial systems. Using his computer workstation, Mahoney had created false accounts payable entries and routing payments to offshore accounts under his control.
+
+No forced entry or physical weapons were involved, as Mahoney legitimately had full access to TrueLogic's accounting software and fund transfer systems as part of his duties overseeing accounts payable. Forensic analysis confirmed the unauthorized transactions all traced back to Mahoney's user accounts and computer workstation.
+
+When initially confronted by corporate security, Mahoney was uncooperative and refused to offer any statement. He was taken into custody without incident and charges of embezzlement, money laundering, and wire fraud are pending further investigation.  
+
+Detectives are working to trace the transferred funds and recover any assets purchased by Mahoney using the embezzled money. The total amount stolen is still being calculated but estimated to be over $3 million. TrueLogic Software's operations do not appear significantly impacted, but the company is conducting an internal audit.
+
+This remains an active investigation and no further details can be released at this time.
+
+Reporting Officers:
+Det. J. Rivero (604)
+Det. S. Moreira (382)

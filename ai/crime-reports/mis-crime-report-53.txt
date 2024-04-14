@@ -1,0 +1,28 @@
+Here is a detailed fictional police report for a fraud crime:
+
+POLICE REPORT
+Case No: 2023-04827
+
+Crime: Fraud
+Location: 125 Main St, Oakville
+Date/Time: April 12, 2023, 3:15pm 
+
+DETAILS OF THE INCIDENT:
+
+On April 12th, 2023 at approximately 3:15pm, the victim, John Roberts (32), reported that he had been the target of an elaborate fraud scheme. Mr. Roberts explained that earlier that day, he received a phone call from a person claiming to be from his bank's fraud department. The caller stated that suspicious activity had been detected on Mr. Roberts' accounts and they needed to verify some information.
+
+The caller then proceeded to ask Mr. Roberts for his full name, date of birth, social security number, and online banking login credentials under the guise of confirming his identity. Unsuspecting of any wrongdoing, Mr. Roberts provided the requested information. 
+
+After the call ended, Mr. Roberts attempted to log into his online banking but found that his credentials had been changed and he was locked out of his accounts. Upon calling the legitimate fraud department at his bank, they informed him that the previous call was likely a vishing (voice phishing) scam and his accounts had been compromised.
+
+Further investigation revealed that the perpetrators had gained access to Mr. Roberts' accounts and initiated several large wire transfers to external accounts, totaling over $27,000 in losses. The bank has frozen the accounts to prevent further unauthorized activity.
+
+EVIDENCE COLLECTED:
+- Call records from Mr. Roberts' phone 
+- Banking records showing unauthorized transactions
+- Recording of the vishing call (in progress)
+
+SUSPECTS: 
+Unknown at this time. Investigations ongoing to trace the phone number used and identify the perpetrators.
+
+This report was taken by Officer J. Thompson, Badge #4527, on April 12, 2023 at 4:30pm.
