@@ -15,7 +15,9 @@ from sklearn.cluster import KMeans
 from sklearn.cluster import DBSCAN
 import spacy
 import json
-# Load the pre-trained word vectors model
+import cluster_functions
+
+
 nlp = spacy.load("en_core_web_sm")
 import ssl
 from nltk.tokenize import word_tokenize
@@ -44,63 +46,15 @@ class FormList(BaseModel):
    data:List[UploadFile]
 @app.post("/post/")
 async def read_root(files:List[UploadFile]):
-   nltk.download('wordnet')
-   file_contents = []
-   file_dict={}
-   stop_words = set(stopwords.words('english'))
-   # Iterate over each uploaded file
-   for index,file in enumerate(files):
-       # Read the file contents as bytes
-       file_bytes = await file.read()
-          
-       # Decode the bytes into a string
-       file_string = file_bytes.decode('utf-8')
-       # Append the string to the list
-       document=re.sub(r'\W', ' ', str(file_string))
-       document = re.sub(r'\^[a-zA-Z]\s+', ' ', document)
-       document = re.sub(r'\s+', ' ', document, flags=re.I)
-       document = re.sub(r'^b\s+', '', document)
-       document = re.sub(r'[^\w\s]', '', document)
-       document = document.lower()
-       document = document.split()
-       document = [stemmer.lemmatize(word) for word in document]
-       document = ' '.join(document)
-       document = word_tokenize(document)
-       document = [w for w in document if not w.lower() in stop_words]
-       document=' '.join(document)
-       file_contents.append(embed_string(document))
-       file_dict[embed_string(document)[0]]=index
-  
-   num_clusters = 3
-   kmeans = KMeans(n_clusters=num_clusters)
-  
-   
-   X=np.array(file_contents)
-   kmeans.fit(X)
-   cluster_labels = kmeans.labels_
-   plt.scatter(X[:, 0], X[:, 1], c=cluster_labels, cmap='viridis')
-   plt.xlabel('Crime feature #2')
-   plt.ylabel('Crime feature #1')
-   plt.title('Clustering Results')
-   plt.colorbar(label='Cluster')
-   i=0
-   for (xi, yi) in zip(X[:, 0], X[:, 1]):
-      val=str(file_dict.get(X[i][0],0))
-      plt.text(xi, yi, val, va='bottom', ha='center')
-      i+=1
-   plt.show()
-   bytes_image = io.BytesIO()
-   plt.savefig(bytes_image, format='png')
-   bytes_image.seek(0)
-   encoded_img = base64.b64encode(bytes_image.getvalue()).decode()
-   return encoded_img
-       
-def embed_string(text):
-   # Tokenize the string
-   tokens = nlp(text)
-   # Average the word vectors to get a single vector representation for the string
-   vector = sum(token.vector for token in tokens) / len(tokens)
-   return vector
+   df=await cluster_functions.extract_features(files)
+   df= cluster_functions.tokenize_and_embed(df)
+
+   crime_img=cluster_functions.cluster(df,3,"CRIME")
+   method_img=cluster_functions.cluster(df,4,"METHOD")
+   evidence_img=cluster_functions.cluster(df,5,"EVIDENCE")
+   return [crime_img,method_img,evidence_img]
+
+
 if __name__ == "__main__":
    import asyncio
    import nest_asyncio
