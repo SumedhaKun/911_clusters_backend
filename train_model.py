@@ -39,10 +39,3 @@ for itn in range(100):
 
 output_dir = "models"
 nlp.to_disk(output_dir)
-file=open("crime-reports/mis-crime-report-257.txt","r")
-text = file.read()
-doc = nlp(text)
-for ent in doc.ents:
-    print(ent.label_)
-    print(ent.text)
-
